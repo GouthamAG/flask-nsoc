@@ -3,7 +3,7 @@
     package="ram.calculator"
     android:versionCode="1"
     android:versionName="1.0" >
-<--Changes made-->
+<--Changes made--> Hi hello
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="18" />
